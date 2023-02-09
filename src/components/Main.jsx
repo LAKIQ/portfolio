@@ -2,6 +2,7 @@ import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
 import {FaFacebookF,FaGithub,FaLinkedinIn} from 'react-icons/fa'
 import ProjectItem from './ProjectItem'
+import yoloImg1 from '../assets/Yolo1.jpg'
 const Main = () => {
   return (
     <div id='main'>
