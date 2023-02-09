@@ -4,12 +4,12 @@ const data = [
     {
         year : 2022,
         title : "AXONS Internship",
-        details : 'ff',
+        details : 'Maintain Web application server based on .Net Core 5.0 ',
     },
     {
         year : 2023,
-        title : "YOLO Object detection Web application",
-        details : 'ff',
+        title : "YOLO Object detection Web application (Python)",
+        details : 'USe yolo to train Object detection AI and published on streamlit  ',
     }
 ]
 
