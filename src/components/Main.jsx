@@ -2,7 +2,6 @@ import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
 import {FaFacebookF,FaGithub,FaLinkedinIn} from 'react-icons/fa'
 const Main = () => {
-  const pic = require('../assets/Yolo1.jpg');
   return (
     <div id='main'>
       <img className='w-full h-screen object-cover ' src='../assets/Yolo1.jpg' alt="me1" />
