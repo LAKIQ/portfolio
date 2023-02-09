@@ -2,7 +2,7 @@ import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
 import {FaFacebookF,FaGithub,FaLinkedinIn} from 'react-icons/fa'
 import ProjectItem from './ProjectItem'
-import me1 from '../assets/me.jpg'
+import me1 from '../assets/me1.jpg'
 const Main = () => {
   return (
     <div id='main'>
