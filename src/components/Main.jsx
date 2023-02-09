@@ -2,11 +2,11 @@ import React from 'react'
 import { TypeAnimation } from 'react-type-animation';
 import {FaFacebookF,FaGithub,FaLinkedinIn} from 'react-icons/fa'
 import ProjectItem from './ProjectItem'
-import yoloImg1 from '../assets/Yolo1.jpg'
+import me1 from '../assets/me.jpg'
 const Main = () => {
   return (
     <div id='main'>
-         <ProjectItem img={yoloImg1} />
+         <ProjectItem img={me1} />
         <div className='w-full h-screen absolute top-0 left-0 bg-white/30'>
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
                 <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>MY NAME IS PAT</h1>
